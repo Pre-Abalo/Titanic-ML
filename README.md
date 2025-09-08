@@ -15,7 +15,7 @@ Titanic-ML/
 
 ## ⚙️ Setup
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/Pre-Abalo/Titanic-ML.git
 cd Titanic-ML
 pip install -r requirements.txt
 ```
